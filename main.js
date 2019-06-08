@@ -3,3 +3,5 @@ console.log(secretMessage.length);
 
 secretMessage.pop();
 console.log(secretMessage.length);
+
+secretMessage.push('to', 'Program');
