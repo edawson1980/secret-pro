@@ -5,3 +5,5 @@ secretMessage.pop();
 console.log(secretMessage.length);
 
 secretMessage.push('to', 'Program');
+
+secretMessage[7] = 'right';
